@@ -1,0 +1,8 @@
+{
+  "name": "bh-css",
+  "version": "1.0.0",
+  "description": "Define CSS within BH templates",
+  "main": "bh-css.js",
+  "author": "Roman Paradeev <sameoldmadness@gmail.com> (http://github.com/sameoldmadness)",
+  "license": "MIT"
+}
